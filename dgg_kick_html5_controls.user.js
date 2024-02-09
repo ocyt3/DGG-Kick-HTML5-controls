@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://*player.kick.com/*
 // @grant       none
-// @version     1.0
+// @version     0.1
 // @author      ocyt3
 // @description 12/15/2023, 12:44:42 AM
 // ==/UserScript==
